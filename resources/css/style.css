@@ -5,7 +5,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-<!-- HEADINGS -->
+/* HEADINGS */
 
 .header--main {
     font-weight: normal;
@@ -24,10 +24,18 @@ body {
     color:grey;
 }
 
-<!-- LINKS -->
+/* LINKS */
 
 .link--cta {
     font-size: 16px;
     color: aquamarine;
+}
+
+/* FOOTER */
+
+.footer--copyright {
+    text-align: right;
+    font-size: 21px;
+    color: grey;
 }
 
